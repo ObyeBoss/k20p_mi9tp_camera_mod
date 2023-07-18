@@ -1,0 +1,7 @@
+id=k20p_BIN_MOD
+name=K20pro & Mi9tpro IMX586 Mod
+version=v3.1
+versionCode=33
+author=UltraM8
+description=OFILM IMX586 SENSOR ONLY. Average & Sum Binning Weighting (with proper noise models), imx598 clocks & lines, External clocks OC, 598/586(pixel6pro tele) PDAF setting, imx689 registers, cleaned up previous builds
+support=https://t.me/ucvm_gcam
